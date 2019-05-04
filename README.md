@@ -1,4 +1,7 @@
 # tf-logging-util
+
+**Note**: This script does not work correctly for tensorflow 2 and many later versions of tensorflow 1.9+. Do not attempt to use it for those versions.
+
 #### A quick and easy utility for setting tensorflow's level of output logging
 
 ### Usage
